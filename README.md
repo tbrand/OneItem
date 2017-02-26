@@ -9,6 +9,8 @@ You can realize auto-playing Video View like Facebook, Instagram, Twitter or oth
 
 ## Sample
 
+<img src="https://raw.githubusercontent.com/tbrand/OneItem/master/imgs/sample.gif" />
+
 ## Usage
 
 ### Install
