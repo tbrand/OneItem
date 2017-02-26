@@ -27,7 +27,7 @@ publish {
     groupId = 'com.tbrandlib.oneitem'
     artifactId = 'oneitem'
     publishVersion = '0.1.0'
-    desc = 'Simple implementation for one item selected RecyclerView'
+    desc = ''
     website = 'https://github.com/tbrand/OneItem'
 }
 
